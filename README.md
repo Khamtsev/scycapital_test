@@ -25,7 +25,7 @@
 
 ```bash
 git clone git@github.com:Khamtsev/scycapital_test.git
-cd task_manager
+cd scycapital_test
 ```
 
 ### 2. Настройка переменных окружения
