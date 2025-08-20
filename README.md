@@ -24,7 +24,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:Khamtsev/scycapital_test.git
 cd task_manager
 ```
 
