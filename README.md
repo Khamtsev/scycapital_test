@@ -92,7 +92,7 @@ task_manager/
 
 ### Параметры запросов
 
-- `status` - фильтр по статусу (created, in_progress, completed)
+- `status` - фильтр по статусу (создано, в работе, завершено)
 - `skip` - количество записей для пропуска (пагинация)
 - `limit` - максимальное количество записей (по умолчанию 100)
 
@@ -103,7 +103,7 @@ task_manager/
 - `id` (UUID) - уникальный идентификатор
 - `title` (str, max 100) - название задачи
 - `description` (str, max 1000, optional) - описание задачи
-- `status` (enum) - статус задачи (created, in_progress, completed)
+- `status` (enum) - статус задачи (создано, в работе, завершено)
 - `created_at` (datetime) - дата создания
 - `updated_at` (datetime) - дата обновления
 
